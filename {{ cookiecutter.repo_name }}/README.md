@@ -19,7 +19,6 @@ Project Organization
     │
     ├── proto              <- Working directroty for each worker
     │                         Uner this directory, you can work freely and no review is done.
-    │                         `1.0-jqp-initial-data-exploration`.
     │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
@@ -47,6 +46,14 @@ Project Organization
     │    └── visualization  <- Scripts to create exploratory and results oriented visualizations
     │        └── visualize.py
     └── tox.ini             <- tox file with settings for running tox; see tox.readthedocs.io
+
+--------
+
+How to Build
+------------
+
+    pip install -r requirements.txt
+
 
 --------
 
