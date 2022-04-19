@@ -15,10 +15,12 @@ Project Organization
     │   ├── processed      <- The final, canonical data sets for modeling.
     │   └── raw            <- The original, immutable data dump.
     │
+    ├── configs            <- Config files
+    │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
-    ├── proto              <- Working directroty for each worker
-    │                         Uner this directory, you can work freely and no review is done.
+    ├── users              <- Working directroty for each worker
+    │                         Under this directory, you can work freely and no review is done.
     │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
